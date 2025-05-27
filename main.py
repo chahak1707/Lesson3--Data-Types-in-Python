@@ -13,3 +13,16 @@ print(type(D))
 E= "Chahak Pahuja"
 reverse=E[::-1]
 print(reverse)
+
+Weight=28.5
+Weight=int(Weight)
+print(Weight)
+
+Age=12
+Age=float(Age)
+print(Age)
+print(type(Age))
+
+Message="I like Coding"
+print(Message.upper())
+print(Message.lower())
